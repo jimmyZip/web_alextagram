@@ -1,1 +1,1 @@
-web: gunicorn vietgram.wsgi --log-file -
+web: gunicorn vietgram.wsgi
